@@ -1,0 +1,9 @@
+C:\Users\Lenovo\OneDrive\Radna površina\FAKULTET\NBP\cassandra\Domaci I\Cassandra\CassandraDataProvider\bin\Debug\netstandard2.0\CassandraDataProvider.deps.json
+C:\Users\Lenovo\OneDrive\Radna površina\FAKULTET\NBP\cassandra\Domaci I\Cassandra\CassandraDataProvider\bin\Debug\netstandard2.0\CassandraDataProvider.dll
+C:\Users\Lenovo\OneDrive\Radna površina\FAKULTET\NBP\cassandra\Domaci I\Cassandra\CassandraDataProvider\bin\Debug\netstandard2.0\CassandraDataProvider.pdb
+C:\Users\Lenovo\OneDrive\Radna površina\FAKULTET\NBP\cassandra\Domaci I\Cassandra\CassandraDataProvider\obj\Debug\netstandard2.0\CassandraDataProvider.csprojAssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Radna površina\FAKULTET\NBP\cassandra\Domaci I\Cassandra\CassandraDataProvider\obj\Debug\netstandard2.0\CassandraDataProvider.AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive\Radna površina\FAKULTET\NBP\cassandra\Domaci I\Cassandra\CassandraDataProvider\obj\Debug\netstandard2.0\CassandraDataProvider.AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive\Radna površina\FAKULTET\NBP\cassandra\Domaci I\Cassandra\CassandraDataProvider\obj\Debug\netstandard2.0\CassandraDataProvider.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Radna površina\FAKULTET\NBP\cassandra\Domaci I\Cassandra\CassandraDataProvider\obj\Debug\netstandard2.0\CassandraDataProvider.dll
+C:\Users\Lenovo\OneDrive\Radna površina\FAKULTET\NBP\cassandra\Domaci I\Cassandra\CassandraDataProvider\obj\Debug\netstandard2.0\CassandraDataProvider.pdb
